@@ -1,4 +1,4 @@
-package com.ada.proyectointegrador.controller.health;
+package com.ada.proyectointegrador.controllers.health;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
